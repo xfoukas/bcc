@@ -73,6 +73,7 @@ APPS = \
 	runqlat \
 	runqlen \
 	runqslower \
+	runtime_trace \
 	sigsnoop \
 	slabratetop \
 	softirqs \
